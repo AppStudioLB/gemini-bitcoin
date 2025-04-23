@@ -1070,3 +1070,4 @@ if __name__ == "__main__":
                
     except Exception as e:
         print(f"프로그램 실행 중 치명적 오류 발생: {e}")
+
